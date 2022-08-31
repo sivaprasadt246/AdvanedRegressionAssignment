@@ -1,4 +1,4 @@
-# Advaned Regression Assignment
+# Advanced Regression Assignment
 > The aim of this project is to build a regression model with regularisation to predict the actual prices of house, given the dataset of previous sale of houses in Australia.
 
 ## Problem Statement
